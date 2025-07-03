@@ -685,41 +685,6 @@
                             "title": "Vietnamien",
                             "text": "Compétence intermédiaire en vietnamien ; je peux tenir des conversations et comprendre des textes écrits.",
                             "level": "Intermédiaire"
-                        },
-                        "ko": {
-                            "title": "베트남어",
-                            "text": "중간 수준의 베트남어 실력; 대화 가능 및 글을 이해할 수 있음.",
-                            "level": "중급"
-                        }
-                    }
-                },
-                {
-                    "id": 4,
-                    "img": "images/flags/ko.png",
-                    "faIcon": "",
-                    "faIconColors": {"bg": "", "fill": ""},
-                    "date": {"year": null, "month": null},
-                    "percentage": null,
-                    "locales": {
-                        "en": {
-                            "title": "Korean",
-                            "text": "Basic understanding of Korean; learning and improving.",
-                            "level": "Basic"
-                        },
-                        "es": {
-                            "title": "Coreano",
-                            "text": "Comprensión básica del coreano; aprendiendo y mejorando.",
-                            "level": "Básico"
-                        },
-                        "fr": {
-                            "title": "Coréen",
-                            "text": "Compréhension de base du coréen; en apprentissage et amélioration.",
-                            "level": "Basique"
-                        },
-                        "ko": {
-                            "title": "한국어",
-                            "text": "기초적인 한국어 이해; 배우는 중이며 향상 중.",
-                            "level": "기초"
                         }
                     }
                 }

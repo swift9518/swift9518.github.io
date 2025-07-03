@@ -1,5 +1,5 @@
 {
-    "name": "Mark Choi",
+    "name": "Ryle Swift",
 
     "profilePictureUrl": "images/pictures/profile-picture.jpg",
     "resumePdfUrl": "",
@@ -10,8 +10,8 @@
 
     "locales": {
         "en": {
-            "localized_name": "Mark Choi",
-            "localized_name_stylized": " [[Mark {{Choi}}]]",
+            "localized_name": "Ryle Swift",
+            "localized_name_stylized": " [[Ryle {{Swift}}]]",
             "status_message_available_for_freelance": "Available for freelance!",
             "roles": [
                 "Backend Developer",

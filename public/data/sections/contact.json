@@ -51,9 +51,9 @@
                     "title": "Envíame un {{mensaje}}"
                 },
                 "fr": {
-                    "contact_thank_you_title": "{{Merci}} pour le contact!",
-                    "contact_thank_you_body": "Votre message a été reçu, et je vous contacterai bientôt. J'apprécie votre temps et j'ai hâte de me connecter avec vous!",
-                    "contact_thank_you_footer": "La réponse sera envoyée à votre adresse e-mail: {{$email}}",
+                    "contact_thank_you_title": "Merci!",
+                    "contact_thank_you_body": "Nous avons bien reçu votre message et nous vous contacterons bientôt. Merci pour votre temps et au plaisir de vous lire!",
+                    "contact_thank_you_footer": "La réponse sera envoyée à votre adresse e-mail {{$email}}.",
                     "title": "Envoyez-moi un {{message}}"
                 },
                 "ko": {
@@ -97,8 +97,8 @@
                     "id":2,
                     "faIcon": "fa-solid fa-envelope",
                     "faIconColors": { "bg": "", "fill": "" },
-                    "label": "mark.choi@email.com",
-                    "link": {"href": "mailto:mark.choi@email.com", "tooltipString": "email_me"},
+                    "label": "ryle.swift@email.com",
+                    "link": {"href": "mailto:ryle.swift@email.com", "tooltipString": "email_me"},
                     "locales": {
                         "en": {"title": "E-mail"},
                         "ko": {"title": "이메일"}
@@ -108,7 +108,7 @@
                     "id": 3,
                     "faIcon": "fa-brands fa-linkedin",
                     "faIconColors": { "bg": "", "fill": "" },
-                    "label": "@markchoi",
+                    "label": "@ryleswift",
                     "link": {"href": "https://linkedin.com/in/", "tooltipString": "open_website"},
                     "locales": {
                         "en": {"title": "LinkedIn"},
@@ -119,8 +119,8 @@
                     "id": 4,
                     "faIcon": "fa-brands fa-facebook",
                     "faIconColors": { "bg": "", "fill": "" },
-                    "label": "Mark Choi",
-                    "link": {"href": "https://facebook.com/profiles/mark.choi.855/default", "tooltipString": "open_website"},
+                    "label": "Ryle Swift",
+                    "link": {"href": "https://facebook.com/profiles/ryle.swift.855/default", "tooltipString": "open_website"},
                     "locales": {
                         "en": {"title": "Facebook"},
                         "ko": {"title": "페이스북"}
@@ -130,7 +130,7 @@
                     "id": 5,
                     "faIcon": "fa-brands fa-instagram",
                     "faIconColors": { "bg": "", "fill": "" },
-                    "label": "@codingmark",
+                    "label": "@coding.ryle",
                     "link": {"href": "https://instagram.com/", "tooltipString": "open_website"},
                     "locales": {
                         "en": {"title": "Instagram"},
@@ -141,8 +141,8 @@
                     "id": 6,
                     "faIcon": "fa-brands fa-tiktok",
                     "faIconColors": { "bg": "", "fill": "" },
-                    "label": "@markchoi",
-                    "link": {"href": "https://tiktok.com/@markchoi", "tooltipString": "open_website"},
+                    "label": "@ryleswift",
+                    "link": {"href": "https://tiktok.com/@ryleswift", "tooltipString": "open_website"},
                     "locales": {
                         "en": { "title": "TikTok" },
                         "ko": { "title": "틱톡" }
