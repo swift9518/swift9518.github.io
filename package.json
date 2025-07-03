@@ -10,7 +10,7 @@
         "preview": "vite preview",
         "resume:make:article": "node npm/npm-resume-new-article.js",
         "resume:clear": "node npm/npm-resume-clear.js",
-        "deploy": "gh-pages -d build"
+        "deploy": "gh-pages -d dist"
     },
     "dependencies": {
         "@emailjs/browser": "^4.4.1",
